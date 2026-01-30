@@ -1,7 +1,7 @@
 # RhombixTechnologies_Task02
 A social media website using HTML, CSS, and JavaScript with light and dark modes.
 
-# Project Description
+# Project Overview
 This project is a **social media Website** inspired by Facebook.  
 It is built using **HTML, CSS, and JavaScript** and includes a **light and dark theme toggle** for better user experience.  
 
