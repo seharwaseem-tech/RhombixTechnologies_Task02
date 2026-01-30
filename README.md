@@ -30,7 +30,8 @@ The purpose of this task is to demonstrate:
 - `index.html` — Main HTML page  
 - `style.css` — Stylesheet for layout and design  
 - `script.js` — JavaScript for light/dark mode and interactivity  
-- `images/` — Folder containing all image assets used in the website  
+- `images` — Folder containing all image assets used in the website  
+- `screenshots` — Folder containing desktop view screenshots of the website
 
 # Author
 **Sehar Waseem**  
